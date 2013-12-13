@@ -1,0 +1,62 @@
+body {
+	background-color: rgba(0,0,0, .8);
+}
+
+#main {
+	text-align: center;
+}
+
+#brand-logo {
+	text-align: center;
+	font-size: 5em;
+	color: #4bafd8;
+	margin-top: 35px;
+}
+
+.tagline {
+	color: white;
+	font-weight: bold;
+	font-size: 1.25em;
+	margin-top: 15px;
+	margin-bottom: 35px;
+}
+
+.the-pitch {
+	padding-top: 15px;
+	padding-bottom: 40px;
+}
+
+.the-pitch h3 {
+	font-style: italic;
+}
+
+.contact {
+	padding-top: 40px;
+}
+
+.contact-type {
+	height: 60px;
+	vertical-align: middle;
+}
+
+.contact-type i {
+	font-size: 32px;
+	color: white;
+	padding-top: 10px;
+}
+
+.contact-type div {
+	font-size: 32px;
+	color: white;
+	padding-left: .5em;
+	display: inline;
+}
+
+.targets {
+	height: 250px;
+}
+
+.targets span {
+	color: #e57262;
+	font-size: 1.5em;
+}
