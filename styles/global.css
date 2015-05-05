@@ -6292,9 +6292,9 @@ button.close {
     display: none !important; } }
 
 #masthead {
-  background-image: url("https://s3.amazonaws.com/resflow-brand-assets/marketing/site/splash-primary-img.webp");
+  background-image: url("https://s3.amazonaws.com/resflow-brand-assets/marketing/site/splash-primary-img-small.png");
   background-position: center;
-  background-size: auto; }
+  background-size: cover; }
   #masthead .top-links {
     font-size: 24px;
     color: #fff;
@@ -6469,22 +6469,24 @@ button.close {
   padding-bottom: 25px; }
 
 @media (min-width: 992px) {
-  #masthead .top-links {
-    text-align: start; }
-    #masthead .top-links .phone {
-      float: right; }
-  #masthead #full-logo {
-    margin: 175px auto 0 auto;
-    max-width: 600px; }
-  #masthead #tagline {
-    font-size: 72px;
-    width: 700px;
-    text-align: center;
-    margin: 150px auto 0 auto; }
-  #masthead #product-blurb {
-    font-size: 36px;
-    max-width: 900px;
-    margin: 200px auto 100px auto; }
+  #masthead {
+    background-image: url("https://s3.amazonaws.com/resflow-brand-assets/marketing/site/splash-primary-img.webp"); }
+    #masthead .top-links {
+      text-align: start; }
+      #masthead .top-links .phone {
+        float: right; }
+    #masthead #full-logo {
+      margin: 175px auto 0 auto;
+      max-width: 600px; }
+    #masthead #tagline {
+      font-size: 72px;
+      width: 700px;
+      text-align: center;
+      margin: 150px auto 0 auto; }
+    #masthead #product-blurb {
+      font-size: 36px;
+      max-width: 900px;
+      margin: 200px auto 100px auto; }
   #we-understand {
     padding-top: 100px;
     padding-bottom: 100px; }
