@@ -6306,7 +6306,7 @@ button.close {
     width: calc(100% - 40px); }
   #masthead #tagline {
     font-size: 36px;
-    font-family: "runda";
+    font-family: "open-sans";
     font-weight: 500;
     color: #fff;
     display: block;
