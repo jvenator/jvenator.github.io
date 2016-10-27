@@ -1053,7 +1053,7 @@ html {
   -webkit-tap-highlight-color: transparent; }
 
 body {
-  font-family: "open-sans", Arial, sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 14px;
   line-height: 1.42857;
   color: #333333;
@@ -5675,7 +5675,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "open-sans", Arial, sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -5777,7 +5777,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "open-sans", Arial, sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857;
@@ -6306,7 +6306,7 @@ button.close {
     width: calc(100% - 40px); }
   #masthead #tagline {
     font-size: 36px;
-    font-family: "open-sans";
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 500;
     color: #fff;
     display: block;
